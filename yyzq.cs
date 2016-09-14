@@ -30,7 +30,7 @@ namespace LeafSoft
             InitializeComponent();
             //fc.TopMost = true;
             //fb.TopMost = true;
-            this.Text = Lib.AppInfor.AssemblyTitle + "[v" + Lib.AppInfor.AssemblyVersion + "][" + Lib.AppInfor.AssemblyCopyright + "]";
+            //this.Text = Lib.AppInfor.AssemblyTitle + "[v" + Lib.AppInfor.AssemblyVersion + "][" + Lib.AppInfor.AssemblyCopyright + "]";
         }
 
         private void CreateNewTest(object p,string title,Icon icon)
