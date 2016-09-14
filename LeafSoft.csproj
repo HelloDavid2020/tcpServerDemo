@@ -9,7 +9,7 @@
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>LeafSoft</RootNamespace>
-    <AssemblyName>C#通讯调试工具%28v3.0测试版%29</AssemblyName>
+    <AssemblyName>tcpServer V1.0.0</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

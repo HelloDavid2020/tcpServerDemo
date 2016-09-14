@@ -16,6 +16,9 @@ namespace LeafSoft.Units
     /// </summary>
     public partial class DataReceive : UserControl
     {
+        byte[] encrypted_buf = new byte[2084]; // 密文
+        byte[] decrypted_buf = new byte[2084];
+
         public DataReceive()
         {
             InitializeComponent();
@@ -69,11 +72,32 @@ namespace LeafSoft.Units
         {
             this.BeginInvoke(new MethodInvoker(delegate
             {
+              
+
+                //richTextBox3.AppendText("Send " + time + " " + data + "\r\n");
+
                 if (cbxAutoLine.Checked && txtData.Text.Length > 0)
                 {
                     txtData.AppendText("\r\n");
-                }
-                txtData.AppendText(content);
+                }  
+                string time = DateTime.Now.ToString("[hh:mm:ss fff] ");
+                txtData.AppendText(time+content);
+
+
+                byte[] byteArray = System.Text.Encoding.Default.GetBytes(content);
+
+                txtData.AppendText("\r\n"+byteArray[0]+ " " + byteArray[1]);
+
+                //if (transfer_len != transfer[0] * 256 + transfer[1])
+                //{
+                //    ERROR_DEBUG_PRINT("The Recv Data Head Len Error %d %d\r\n", transfer_len, transfer[0] * 256 + transfer[1]);
+                //    return;
+                //}
+  
+
+
+
+
                 if (txtData.Text.Length > 60000)
                 {
                     txtData.Text.Remove(0, 10000);
@@ -216,6 +240,30 @@ namespace LeafSoft.Units
             return BToInt32;
         }
         #endregion
+
+
+        //void ascii2data(byte[] des, byte[] src, int size)
+        //{
+        //    UInt16 i = 0;
+        //    UInt16 j = 0;
+        //    byte highData;
+        //    byte lowData;
+        //    while (i < size)
+        //    {
+        //        if (src[i] <= '9' && src[i] >= '0')
+        //            highData = src[i] - '0';
+        //        else
+        //            highData = src[i] - 'A' + 0xa;
+        //        i++;
+        //        if (src[i] <= '9' && src[i] >= '0')
+        //            lowData = src[i] - '0';
+        //        else
+        //            lowData = src[i] - 'A' + 0xa;
+        //        des[j] = lowData + (highData << 4);
+        //        j++;
+        //        i++;
+        //    }
+        //}
 
         private void txtData_TextChanged(object sender, EventArgs e)
         {
