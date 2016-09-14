@@ -45,18 +45,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
-    <Compile Include="DataBase.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="DataBase.Designer.cs">
-      <DependentUpon>DataBase.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmCMD.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmCMD.Designer.cs">
-      <DependentUpon>frmCMD.cs</DependentUpon>
-    </Compile>
     <Compile Include="Lib\BytesCheck.cs" />
     <Compile Include="Lib\HotKey.cs" />
     <Compile Include="Model\LeafUDPClient.cs" />
@@ -167,12 +155,6 @@
     <Compile Include="Units\NetUDPServer.Designer.cs">
       <DependentUpon>NetUDPServer.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="DataBase.resx">
-      <DependentUpon>DataBase.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmCMD.resx">
-      <DependentUpon>frmCMD.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="PartPanel\TCPClientPanel.resx">
       <DependentUpon>TCPClientPanel.cs</DependentUpon>
     </EmbeddedResource>

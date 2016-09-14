@@ -51,31 +51,31 @@ namespace LeafSoft.Units
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
-        private void MS_Add_Click(object sender, EventArgs e)
-        {
-            frmCMD fCmd = new frmCMD();
-            if (fCmd.ShowDialog() == DialogResult.OK)
-            {
-                lstCMD.Add(fCmd.NewCMD);
-            }
-        }
+        //private void MS_Add_Click(object sender, EventArgs e)
+        //{
+        //    frmCMD fCmd = new frmCMD();
+        //    if (fCmd.ShowDialog() == DialogResult.OK)
+        //    {
+        //        lstCMD.Add(fCmd.NewCMD);
+        //    }
+        //}
 
         /// <summary>
         /// 编辑调试命令
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
-        private void MS_Edit_Click(object sender, EventArgs e)
-        {
-            if (dgCMD.SelectedRows.Count > 0)
-            {
-                frmCMD fCmd = new frmCMD(lstCMD[dgCMD.SelectedRows[0].Index]);
-                if (fCmd.ShowDialog() == DialogResult.OK)
-                {
-                    lstCMD[dgCMD.SelectedRows[0].Index] = fCmd.NewCMD;
-                }
-            }
-        }
+        //private void MS_Edit_Click(object sender, EventArgs e)
+        //{
+        //    if (dgCMD.SelectedRows.Count > 0)
+        //    {
+        //        frmCMD fCmd = new frmCMD(lstCMD[dgCMD.SelectedRows[0].Index]);
+        //        if (fCmd.ShowDialog() == DialogResult.OK)
+        //        {
+        //            lstCMD[dgCMD.SelectedRows[0].Index] = fCmd.NewCMD;
+        //        }
+        //    }
+        //}
 
         /// <summary>
         /// 删除调试命令

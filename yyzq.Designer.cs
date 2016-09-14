@@ -36,18 +36,12 @@
             this.MS_NewTCPClient = new System.Windows.Forms.ToolStripMenuItem();
             this.MS_NewUDPServer = new System.Windows.Forms.ToolStripMenuItem();
             this.MS_NewUDPClient = new System.Windows.Forms.ToolStripMenuItem();
-            this.tabPage5 = new System.Windows.Forms.TabPage();
-            this.udpClientPanel1 = new LeafSoft.PartPanel.UDPClientPanel();
-            this.tabPage4 = new System.Windows.Forms.TabPage();
-            this.udpServerPanel1 = new LeafSoft.PartPanel.UDPServerPanel();
             this.tabPage3 = new System.Windows.Forms.TabPage();
             this.tcpClientPanel1 = new LeafSoft.PartPanel.TCPClientPanel();
             this.tabPage2 = new System.Windows.Forms.TabPage();
             this.tcpServerPanel1 = new LeafSoft.PartPanel.TCPServerPanel();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.menuStrip1.SuspendLayout();
-            this.tabPage5.SuspendLayout();
-            this.tabPage4.SuspendLayout();
             this.tabPage3.SuspendLayout();
             this.tabPage2.SuspendLayout();
             this.tabControl1.SuspendLayout();
@@ -117,42 +111,6 @@
             this.MS_NewUDPClient.Text = "UDP Client";
             this.MS_NewUDPClient.Click += new System.EventHandler(this.MS_NewUDPClient_Click);
             // 
-            // tabPage5
-            // 
-            this.tabPage5.Controls.Add(this.udpClientPanel1);
-            this.tabPage5.Location = new System.Drawing.Point(4, 22);
-            this.tabPage5.Name = "tabPage5";
-            this.tabPage5.Size = new System.Drawing.Size(710, 467);
-            this.tabPage5.TabIndex = 5;
-            this.tabPage5.Text = "UDP Client";
-            this.tabPage5.UseVisualStyleBackColor = true;
-            // 
-            // udpClientPanel1
-            // 
-            this.udpClientPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.udpClientPanel1.Location = new System.Drawing.Point(0, 0);
-            this.udpClientPanel1.Name = "udpClientPanel1";
-            this.udpClientPanel1.Size = new System.Drawing.Size(710, 467);
-            this.udpClientPanel1.TabIndex = 0;
-            // 
-            // tabPage4
-            // 
-            this.tabPage4.Controls.Add(this.udpServerPanel1);
-            this.tabPage4.Location = new System.Drawing.Point(4, 22);
-            this.tabPage4.Name = "tabPage4";
-            this.tabPage4.Size = new System.Drawing.Size(710, 467);
-            this.tabPage4.TabIndex = 3;
-            this.tabPage4.Text = "UDP Server";
-            this.tabPage4.UseVisualStyleBackColor = true;
-            // 
-            // udpServerPanel1
-            // 
-            this.udpServerPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.udpServerPanel1.Location = new System.Drawing.Point(0, 0);
-            this.udpServerPanel1.Name = "udpServerPanel1";
-            this.udpServerPanel1.Size = new System.Drawing.Size(710, 467);
-            this.udpServerPanel1.TabIndex = 0;
-            // 
             // tabPage3
             // 
             this.tabPage3.Controls.Add(this.tcpClientPanel1);
@@ -197,8 +155,6 @@
                         | System.Windows.Forms.AnchorStyles.Right)));
             this.tabControl1.Controls.Add(this.tabPage2);
             this.tabControl1.Controls.Add(this.tabPage3);
-            this.tabControl1.Controls.Add(this.tabPage4);
-            this.tabControl1.Controls.Add(this.tabPage5);
             this.tabControl1.Location = new System.Drawing.Point(0, 26);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
@@ -216,12 +172,10 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "yyzq";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
+            this.Text = "TCP";
             this.Load += new System.EventHandler(this.yyzq_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
-            this.tabPage5.ResumeLayout(false);
-            this.tabPage4.ResumeLayout(false);
             this.tabPage3.ResumeLayout(false);
             this.tabPage2.ResumeLayout(false);
             this.tabControl1.ResumeLayout(false);
@@ -239,10 +193,6 @@
         private System.Windows.Forms.ToolStripMenuItem MS_NewUDPServer;
         private System.Windows.Forms.ToolStripMenuItem MS_NewUDPClient;
         private System.Windows.Forms.ToolStripMenuItem MS_NewRs232;
-        private System.Windows.Forms.TabPage tabPage5;
-        private PartPanel.UDPClientPanel udpClientPanel1;
-        private System.Windows.Forms.TabPage tabPage4;
-        private PartPanel.UDPServerPanel udpServerPanel1;
         private System.Windows.Forms.TabPage tabPage3;
         private PartPanel.TCPClientPanel tcpClientPanel1;
         private System.Windows.Forms.TabPage tabPage2;

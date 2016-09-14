@@ -202,8 +202,6 @@ C:\Users\SmallMoves\Documents\tcpServerDemo\obj\x86\Release\C#通讯调试工具
 C:\Users\SmallMoves\Documents\tcpServerDemo\obj\x86\Release\C#通讯调试工具(v3.0测试版).pdb
 C:\Users\SmallMoves\Documents\tcpServerDemo\bin\Release\C#通讯调试工具(v3.0测试版).exe
 C:\Users\SmallMoves\Documents\tcpServerDemo\bin\Release\C#通讯调试工具(v3.0测试版).pdb
-C:\Users\SmallMoves\Documents\tcpServerDemo\obj\x86\Release\LeafSoft.DataBase.resources
-C:\Users\SmallMoves\Documents\tcpServerDemo\obj\x86\Release\LeafSoft.frmCMD.resources
 C:\Users\SmallMoves\Documents\tcpServerDemo\obj\x86\Release\LeafSoft.PartPanel.TCPClientPanel.resources
 C:\Users\SmallMoves\Documents\tcpServerDemo\obj\x86\Release\LeafSoft.PartPanel.UDPClientPanel.resources
 C:\Users\SmallMoves\Documents\tcpServerDemo\obj\x86\Release\LeafSoft.Units.NetTCPClient.resources

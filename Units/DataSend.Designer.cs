@@ -102,25 +102,25 @@
             // 
             // MS_Add
             // 
-            this.MS_Add.Name = "MS_Add";
-            this.MS_Add.Size = new System.Drawing.Size(100, 22);
-            this.MS_Add.Text = "添加";
-            this.MS_Add.Click += new System.EventHandler(this.MS_Add_Click);
-            // 
-            // MS_Edit
-            // 
-            this.MS_Edit.Name = "MS_Edit";
-            this.MS_Edit.Size = new System.Drawing.Size(100, 22);
-            this.MS_Edit.Text = "编辑";
-            this.MS_Edit.Click += new System.EventHandler(this.MS_Edit_Click);
-            // 
+            //this.MS_Add.Name = "MS_Add";
+            //this.MS_Add.Size = new System.Drawing.Size(100, 22);
+            //this.MS_Add.Text = "添加";
+            //this.MS_Add.Click += new System.EventHandler(this.MS_Add_Click);
+            //// 
+            //// MS_Edit
+            //// 
+            //this.MS_Edit.Name = "MS_Edit";
+            //this.MS_Edit.Size = new System.Drawing.Size(100, 22);
+            //this.MS_Edit.Text = "编辑";
+            //this.MS_Edit.Click += new System.EventHandler(this.MS_Edit_Click);
+            //// 
             // MS_Delete
             // 
-            this.MS_Delete.Name = "MS_Delete";
-            this.MS_Delete.Size = new System.Drawing.Size(100, 22);
-            this.MS_Delete.Text = "删除";
-            this.MS_Delete.Click += new System.EventHandler(this.MS_Delete_Click);
-            // 
+            //this.MS_Delete.Name = "MS_Delete";
+            //this.MS_Delete.Size = new System.Drawing.Size(100, 22);
+            //this.MS_Delete.Text = "删除";
+            //this.MS_Delete.Click += new System.EventHandler(this.MS_Delete_Click);
+            //// 
             // btnAutoSend
             // 
             this.btnAutoSend.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
