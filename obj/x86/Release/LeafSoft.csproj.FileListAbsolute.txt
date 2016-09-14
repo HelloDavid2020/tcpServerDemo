@@ -1,0 +1,200 @@
+E:\项目\wwb调试\审核后台源码\3.0测试版(含源码)\通讯调试工具3.0测试版(含源码)\源码\bin\Release\C#通讯调试工具(v3.0测试版).exe
+E:\项目\wwb调试\审核后台源码\3.0测试版(含源码)\通讯调试工具3.0测试版(含源码)\源码\bin\Release\C#通讯调试工具(v3.0测试版).pdb
+E:\项目\wwb调试\审核后台源码\3.0测试版(含源码)\通讯调试工具3.0测试版(含源码)\源码\obj\x86\Release\LeafSoft.AboutMe.resources
+E:\项目\wwb调试\审核后台源码\3.0测试版(含源码)\通讯调试工具3.0测试版(含源码)\源码\obj\x86\Release\LeafSoft.frmBytes.resources
+E:\项目\wwb调试\审核后台源码\3.0测试版(含源码)\通讯调试工具3.0测试版(含源码)\源码\obj\x86\Release\LeafSoft.frmCheck.resources
+E:\项目\wwb调试\审核后台源码\3.0测试版(含源码)\通讯调试工具3.0测试版(含源码)\源码\obj\x86\Release\LeafSoft.frmCMD.resources
+E:\项目\wwb调试\审核后台源码\3.0测试版(含源码)\通讯调试工具3.0测试版(含源码)\源码\obj\x86\Release\LeafSoft.frmPoly.resources
+E:\项目\wwb调试\审核后台源码\3.0测试版(含源码)\通讯调试工具3.0测试版(含源码)\源码\obj\x86\Release\LeafSoft.PartPanel.TCPClientPanel.resources
+E:\项目\wwb调试\审核后台源码\3.0测试版(含源码)\通讯调试工具3.0测试版(含源码)\源码\obj\x86\Release\LeafSoft.PartPanel.UDPClientPanel.resources
+E:\项目\wwb调试\审核后台源码\3.0测试版(含源码)\通讯调试工具3.0测试版(含源码)\源码\obj\x86\Release\LeafSoft.Units.NetTCPClient.resources
+E:\项目\wwb调试\审核后台源码\3.0测试版(含源码)\通讯调试工具3.0测试版(含源码)\源码\obj\x86\Release\LeafSoft.Units.NetTCPServer.resources
+E:\项目\wwb调试\审核后台源码\3.0测试版(含源码)\通讯调试工具3.0测试版(含源码)\源码\obj\x86\Release\LeafSoft.Units.NetUDPClient.resources
+E:\项目\wwb调试\审核后台源码\3.0测试版(含源码)\通讯调试工具3.0测试版(含源码)\源码\obj\x86\Release\LeafSoft.Units.TabDataReceive.resources
+E:\项目\wwb调试\审核后台源码\3.0测试版(含源码)\通讯调试工具3.0测试版(含源码)\源码\obj\x86\Release\LeafSoft.yyzq.resources
+E:\项目\wwb调试\审核后台源码\3.0测试版(含源码)\通讯调试工具3.0测试版(含源码)\源码\obj\x86\Release\LeafSoft.PartPanel.ComPanel.resources
+E:\项目\wwb调试\审核后台源码\3.0测试版(含源码)\通讯调试工具3.0测试版(含源码)\源码\obj\x86\Release\LeafSoft.PartPanel.TCPServerPanel.resources
+E:\项目\wwb调试\审核后台源码\3.0测试版(含源码)\通讯调试工具3.0测试版(含源码)\源码\obj\x86\Release\LeafSoft.PartPanel.UDPServerPanel.resources
+E:\项目\wwb调试\审核后台源码\3.0测试版(含源码)\通讯调试工具3.0测试版(含源码)\源码\obj\x86\Release\LeafSoft.Properties.Resources.resources
+E:\项目\wwb调试\审核后台源码\3.0测试版(含源码)\通讯调试工具3.0测试版(含源码)\源码\obj\x86\Release\LeafSoft.Units.NetRs232.resources
+E:\项目\wwb调试\审核后台源码\3.0测试版(含源码)\通讯调试工具3.0测试版(含源码)\源码\obj\x86\Release\LeafSoft.Units.DataCounter.resources
+E:\项目\wwb调试\审核后台源码\3.0测试版(含源码)\通讯调试工具3.0测试版(含源码)\源码\obj\x86\Release\LeafSoft.Units.DataReceive.resources
+E:\项目\wwb调试\审核后台源码\3.0测试版(含源码)\通讯调试工具3.0测试版(含源码)\源码\obj\x86\Release\LeafSoft.Units.DataSend.resources
+E:\项目\wwb调试\审核后台源码\3.0测试版(含源码)\通讯调试工具3.0测试版(含源码)\源码\obj\x86\Release\LeafSoft.Units.NetUDPServer.resources
+E:\项目\wwb调试\审核后台源码\3.0测试版(含源码)\通讯调试工具3.0测试版(含源码)\源码\obj\x86\Release\LeafSoft.csproj.GenerateResource.Cache
+E:\项目\wwb调试\审核后台源码\3.0测试版(含源码)\通讯调试工具3.0测试版(含源码)\源码\obj\x86\Release\C#通讯调试工具(v3.0测试版).exe
+E:\项目\wwb调试\审核后台源码\3.0测试版(含源码)\通讯调试工具3.0测试版(含源码)\源码\obj\x86\Release\C#通讯调试工具(v3.0测试版).pdb
+C:\Users\007\Desktop\xxxxx\obj\x86\Release\C#通讯调试工具(v3.0测试版).exe
+C:\Users\007\Desktop\xxxxx\obj\x86\Release\C#通讯调试工具(v3.0测试版).pdb
+C:\Users\007\Desktop\网络调试助手 - 出错副本\bin\Release\C#通讯调试工具(v3.0测试版).exe
+C:\Users\007\Desktop\网络调试助手 - 出错副本\bin\Release\C#通讯调试工具(v3.0测试版).pdb
+C:\Users\007\Desktop\网络调试助手 - 出错副本\obj\x86\Release\LeafSoft.AboutMe.resources
+C:\Users\007\Desktop\网络调试助手 - 出错副本\obj\x86\Release\LeafSoft.frmBytes.resources
+C:\Users\007\Desktop\网络调试助手 - 出错副本\obj\x86\Release\LeafSoft.frmCheck.resources
+C:\Users\007\Desktop\网络调试助手 - 出错副本\obj\x86\Release\LeafSoft.frmCMD.resources
+C:\Users\007\Desktop\网络调试助手 - 出错副本\obj\x86\Release\LeafSoft.frmPoly.resources
+C:\Users\007\Desktop\网络调试助手 - 出错副本\obj\x86\Release\LeafSoft.PartPanel.TCPClientPanel.resources
+C:\Users\007\Desktop\网络调试助手 - 出错副本\obj\x86\Release\LeafSoft.PartPanel.UDPClientPanel.resources
+C:\Users\007\Desktop\网络调试助手 - 出错副本\obj\x86\Release\LeafSoft.Units.NetTCPClient.resources
+C:\Users\007\Desktop\网络调试助手 - 出错副本\obj\x86\Release\LeafSoft.Units.NetTCPServer.resources
+C:\Users\007\Desktop\网络调试助手 - 出错副本\obj\x86\Release\LeafSoft.Units.NetUDPClient.resources
+C:\Users\007\Desktop\网络调试助手 - 出错副本\obj\x86\Release\LeafSoft.Units.TabDataReceive.resources
+C:\Users\007\Desktop\网络调试助手 - 出错副本\obj\x86\Release\LeafSoft.yyzq.resources
+C:\Users\007\Desktop\网络调试助手 - 出错副本\obj\x86\Release\LeafSoft.PartPanel.ComPanel.resources
+C:\Users\007\Desktop\网络调试助手 - 出错副本\obj\x86\Release\LeafSoft.PartPanel.TCPServerPanel.resources
+C:\Users\007\Desktop\网络调试助手 - 出错副本\obj\x86\Release\LeafSoft.PartPanel.UDPServerPanel.resources
+C:\Users\007\Desktop\网络调试助手 - 出错副本\obj\x86\Release\LeafSoft.Properties.Resources.resources
+C:\Users\007\Desktop\网络调试助手 - 出错副本\obj\x86\Release\LeafSoft.Units.NetRs232.resources
+C:\Users\007\Desktop\网络调试助手 - 出错副本\obj\x86\Release\LeafSoft.Units.DataCounter.resources
+C:\Users\007\Desktop\网络调试助手 - 出错副本\obj\x86\Release\LeafSoft.Units.DataReceive.resources
+C:\Users\007\Desktop\网络调试助手 - 出错副本\obj\x86\Release\LeafSoft.Units.DataSend.resources
+C:\Users\007\Desktop\网络调试助手 - 出错副本\obj\x86\Release\LeafSoft.Units.NetUDPServer.resources
+C:\Users\007\Desktop\网络调试助手 - 出错副本\obj\x86\Release\LeafSoft.csproj.GenerateResource.Cache
+C:\Users\007\Desktop\网络调试助手 - 出错副本\obj\x86\Release\C#通讯调试工具(v3.0测试版).exe
+C:\Users\007\Desktop\网络调试助手 - 出错副本\obj\x86\Release\C#通讯调试工具(v3.0测试版).pdb
+C:\Users\007\Desktop\网络调试助手 - 出错副本\obj\x86\Release\LeafSoft.DataBase.resources
+C:\Users\007\Desktop\网络调试助手 - 出错副本\obj\x86\Release\LeafSoft.csprojResolveAssemblyReference.cache
+C:\Users\007\Desktop\网络调试助手 - OK\bin\Release\C#通讯调试工具(v3.0测试版).exe
+C:\Users\007\Desktop\网络调试助手 - OK\bin\Release\C#通讯调试工具(v3.0测试版).pdb
+C:\Users\007\Desktop\网络调试助手 - OK\obj\x86\Release\LeafSoft.AboutMe.resources
+C:\Users\007\Desktop\网络调试助手 - OK\obj\x86\Release\LeafSoft.DataBase.resources
+C:\Users\007\Desktop\网络调试助手 - OK\obj\x86\Release\LeafSoft.frmBytes.resources
+C:\Users\007\Desktop\网络调试助手 - OK\obj\x86\Release\LeafSoft.frmCheck.resources
+C:\Users\007\Desktop\网络调试助手 - OK\obj\x86\Release\LeafSoft.frmCMD.resources
+C:\Users\007\Desktop\网络调试助手 - OK\obj\x86\Release\LeafSoft.frmPoly.resources
+C:\Users\007\Desktop\网络调试助手 - OK\obj\x86\Release\LeafSoft.PartPanel.TCPClientPanel.resources
+C:\Users\007\Desktop\网络调试助手 - OK\obj\x86\Release\LeafSoft.PartPanel.UDPClientPanel.resources
+C:\Users\007\Desktop\网络调试助手 - OK\obj\x86\Release\LeafSoft.Units.NetTCPClient.resources
+C:\Users\007\Desktop\网络调试助手 - OK\obj\x86\Release\LeafSoft.Units.NetTCPServer.resources
+C:\Users\007\Desktop\网络调试助手 - OK\obj\x86\Release\LeafSoft.Units.NetUDPClient.resources
+C:\Users\007\Desktop\网络调试助手 - OK\obj\x86\Release\LeafSoft.Units.TabDataReceive.resources
+C:\Users\007\Desktop\网络调试助手 - OK\obj\x86\Release\LeafSoft.yyzq.resources
+C:\Users\007\Desktop\网络调试助手 - OK\obj\x86\Release\LeafSoft.PartPanel.ComPanel.resources
+C:\Users\007\Desktop\网络调试助手 - OK\obj\x86\Release\LeafSoft.PartPanel.TCPServerPanel.resources
+C:\Users\007\Desktop\网络调试助手 - OK\obj\x86\Release\LeafSoft.PartPanel.UDPServerPanel.resources
+C:\Users\007\Desktop\网络调试助手 - OK\obj\x86\Release\LeafSoft.Properties.Resources.resources
+C:\Users\007\Desktop\网络调试助手 - OK\obj\x86\Release\LeafSoft.Units.NetRs232.resources
+C:\Users\007\Desktop\网络调试助手 - OK\obj\x86\Release\LeafSoft.Units.DataCounter.resources
+C:\Users\007\Desktop\网络调试助手 - OK\obj\x86\Release\LeafSoft.Units.DataReceive.resources
+C:\Users\007\Desktop\网络调试助手 - OK\obj\x86\Release\LeafSoft.Units.DataSend.resources
+C:\Users\007\Desktop\网络调试助手 - OK\obj\x86\Release\LeafSoft.Units.NetUDPServer.resources
+C:\Users\007\Desktop\网络调试助手 - OK\obj\x86\Release\LeafSoft.csproj.GenerateResource.Cache
+C:\Users\007\Desktop\网络调试助手 - OK\obj\x86\Release\C#通讯调试工具(v3.0测试版).exe
+C:\Users\007\Desktop\网络调试助手 - OK\obj\x86\Release\C#通讯调试工具(v3.0测试版).pdb
+C:\Users\007\Desktop\网络调试助手 - OK\obj\x86\Release\LeafSoft.Welcome.resources
+C:\Users\007\Desktop\网络调试助手 - OK\obj\x86\Release\LeafSoft.csprojResolveAssemblyReference.cache
+C:\Users\007\Desktop\网络调试助手 - OK - 副本\obj\x86\Release\C#通讯调试工具(v3.0测试版).exe
+C:\Users\007\Desktop\网络调试助手 - OK - 副本\obj\x86\Release\C#通讯调试工具(v3.0测试版).pdb
+C:\Users\007\Desktop\网络调试助手 - OK - 副本\bin\Release\C#通讯调试工具(v3.0测试版).exe
+C:\Users\007\Desktop\网络调试助手 - OK - 副本\bin\Release\C#通讯调试工具(v3.0测试版).pdb
+C:\Users\007\Desktop\网络调试助手 - OK - 副本\obj\x86\Release\LeafSoft.csprojResolveAssemblyReference.cache
+C:\Users\007\Desktop\网络调试助手 - OK - 副本\obj\x86\Release\LeafSoft.AboutMe.resources
+C:\Users\007\Desktop\网络调试助手 - OK - 副本\obj\x86\Release\LeafSoft.DataBase.resources
+C:\Users\007\Desktop\网络调试助手 - OK - 副本\obj\x86\Release\LeafSoft.Welcome.resources
+C:\Users\007\Desktop\网络调试助手 - OK - 副本\obj\x86\Release\LeafSoft.frmBytes.resources
+C:\Users\007\Desktop\网络调试助手 - OK - 副本\obj\x86\Release\LeafSoft.frmCheck.resources
+C:\Users\007\Desktop\网络调试助手 - OK - 副本\obj\x86\Release\LeafSoft.frmCMD.resources
+C:\Users\007\Desktop\网络调试助手 - OK - 副本\obj\x86\Release\LeafSoft.frmPoly.resources
+C:\Users\007\Desktop\网络调试助手 - OK - 副本\obj\x86\Release\LeafSoft.PartPanel.TCPClientPanel.resources
+C:\Users\007\Desktop\网络调试助手 - OK - 副本\obj\x86\Release\LeafSoft.PartPanel.UDPClientPanel.resources
+C:\Users\007\Desktop\网络调试助手 - OK - 副本\obj\x86\Release\LeafSoft.Units.NetTCPClient.resources
+C:\Users\007\Desktop\网络调试助手 - OK - 副本\obj\x86\Release\LeafSoft.Units.NetTCPServer.resources
+C:\Users\007\Desktop\网络调试助手 - OK - 副本\obj\x86\Release\LeafSoft.Units.NetUDPClient.resources
+C:\Users\007\Desktop\网络调试助手 - OK - 副本\obj\x86\Release\LeafSoft.Units.TabDataReceive.resources
+C:\Users\007\Desktop\网络调试助手 - OK - 副本\obj\x86\Release\LeafSoft.yyzq.resources
+C:\Users\007\Desktop\网络调试助手 - OK - 副本\obj\x86\Release\LeafSoft.PartPanel.ComPanel.resources
+C:\Users\007\Desktop\网络调试助手 - OK - 副本\obj\x86\Release\LeafSoft.PartPanel.TCPServerPanel.resources
+C:\Users\007\Desktop\网络调试助手 - OK - 副本\obj\x86\Release\LeafSoft.PartPanel.UDPServerPanel.resources
+C:\Users\007\Desktop\网络调试助手 - OK - 副本\obj\x86\Release\LeafSoft.Properties.Resources.resources
+C:\Users\007\Desktop\网络调试助手 - OK - 副本\obj\x86\Release\LeafSoft.Units.NetRs232.resources
+C:\Users\007\Desktop\网络调试助手 - OK - 副本\obj\x86\Release\LeafSoft.Units.DataCounter.resources
+C:\Users\007\Desktop\网络调试助手 - OK - 副本\obj\x86\Release\LeafSoft.Units.DataReceive.resources
+C:\Users\007\Desktop\网络调试助手 - OK - 副本\obj\x86\Release\LeafSoft.Units.DataSend.resources
+C:\Users\007\Desktop\网络调试助手 - OK - 副本\obj\x86\Release\LeafSoft.Units.NetUDPServer.resources
+C:\Users\007\Desktop\网络调试助手 - OK - 副本\obj\x86\Release\LeafSoft.csproj.GenerateResource.Cache
+D:\BaiduYunDownload\网络调试助手+Mysql\网络调试助手\obj\x86\Release\C#通讯调试工具(v3.0测试版).exe
+D:\BaiduYunDownload\网络调试助手+Mysql\网络调试助手\obj\x86\Release\C#通讯调试工具(v3.0测试版).pdb
+D:\BaiduYunDownload\网络调试助手+Mysql\网络调试助手\bin\Release\C#通讯调试工具(v3.0测试版).exe
+D:\BaiduYunDownload\网络调试助手+Mysql\网络调试助手\bin\Release\C#通讯调试工具(v3.0测试版).pdb
+D:\BaiduYunDownload\网络调试助手+Mysql\网络调试助手\obj\x86\Release\LeafSoft.csprojResolveAssemblyReference.cache
+D:\BaiduYunDownload\网络调试助手+Mysql\网络调试助手\obj\x86\Release\LeafSoft.AboutMe.resources
+D:\BaiduYunDownload\网络调试助手+Mysql\网络调试助手\obj\x86\Release\LeafSoft.DataBase.resources
+D:\BaiduYunDownload\网络调试助手+Mysql\网络调试助手\obj\x86\Release\LeafSoft.Welcome.resources
+D:\BaiduYunDownload\网络调试助手+Mysql\网络调试助手\obj\x86\Release\LeafSoft.frmBytes.resources
+D:\BaiduYunDownload\网络调试助手+Mysql\网络调试助手\obj\x86\Release\LeafSoft.frmCheck.resources
+D:\BaiduYunDownload\网络调试助手+Mysql\网络调试助手\obj\x86\Release\LeafSoft.frmCMD.resources
+D:\BaiduYunDownload\网络调试助手+Mysql\网络调试助手\obj\x86\Release\LeafSoft.frmPoly.resources
+D:\BaiduYunDownload\网络调试助手+Mysql\网络调试助手\obj\x86\Release\LeafSoft.PartPanel.TCPClientPanel.resources
+D:\BaiduYunDownload\网络调试助手+Mysql\网络调试助手\obj\x86\Release\LeafSoft.PartPanel.UDPClientPanel.resources
+D:\BaiduYunDownload\网络调试助手+Mysql\网络调试助手\obj\x86\Release\LeafSoft.Units.NetTCPClient.resources
+D:\BaiduYunDownload\网络调试助手+Mysql\网络调试助手\obj\x86\Release\LeafSoft.Units.NetTCPServer.resources
+D:\BaiduYunDownload\网络调试助手+Mysql\网络调试助手\obj\x86\Release\LeafSoft.Units.NetUDPClient.resources
+D:\BaiduYunDownload\网络调试助手+Mysql\网络调试助手\obj\x86\Release\LeafSoft.Units.TabDataReceive.resources
+D:\BaiduYunDownload\网络调试助手+Mysql\网络调试助手\obj\x86\Release\LeafSoft.yyzq.resources
+D:\BaiduYunDownload\网络调试助手+Mysql\网络调试助手\obj\x86\Release\LeafSoft.PartPanel.ComPanel.resources
+D:\BaiduYunDownload\网络调试助手+Mysql\网络调试助手\obj\x86\Release\LeafSoft.PartPanel.TCPServerPanel.resources
+D:\BaiduYunDownload\网络调试助手+Mysql\网络调试助手\obj\x86\Release\LeafSoft.PartPanel.UDPServerPanel.resources
+D:\BaiduYunDownload\网络调试助手+Mysql\网络调试助手\obj\x86\Release\LeafSoft.Properties.Resources.resources
+D:\BaiduYunDownload\网络调试助手+Mysql\网络调试助手\obj\x86\Release\LeafSoft.Units.NetRs232.resources
+D:\BaiduYunDownload\网络调试助手+Mysql\网络调试助手\obj\x86\Release\LeafSoft.Units.DataCounter.resources
+D:\BaiduYunDownload\网络调试助手+Mysql\网络调试助手\obj\x86\Release\LeafSoft.Units.DataReceive.resources
+D:\BaiduYunDownload\网络调试助手+Mysql\网络调试助手\obj\x86\Release\LeafSoft.Units.DataSend.resources
+D:\BaiduYunDownload\网络调试助手+Mysql\网络调试助手\obj\x86\Release\LeafSoft.Units.NetUDPServer.resources
+D:\BaiduYunDownload\网络调试助手+Mysql\网络调试助手\obj\x86\Release\LeafSoft.csproj.GenerateResource.Cache
+D:\BaiduYunDownload\网络调试助手+Mysql——改\网络调试助手\obj\x86\Release\C#通讯调试工具(v3.0测试版).exe
+D:\BaiduYunDownload\网络调试助手+Mysql——改\网络调试助手\obj\x86\Release\C#通讯调试工具(v3.0测试版).pdb
+D:\BaiduYunDownload\网络调试助手+Mysql——改\网络调试助手\bin\Release\C#通讯调试工具(v3.0测试版).exe
+D:\BaiduYunDownload\网络调试助手+Mysql——改\网络调试助手\bin\Release\C#通讯调试工具(v3.0测试版).pdb
+D:\BaiduYunDownload\网络调试助手+Mysql——改\网络调试助手\obj\x86\Release\LeafSoft.csprojResolveAssemblyReference.cache
+D:\BaiduYunDownload\网络调试助手+Mysql——改\网络调试助手\obj\x86\Release\LeafSoft.AboutMe.resources
+D:\BaiduYunDownload\网络调试助手+Mysql——改\网络调试助手\obj\x86\Release\LeafSoft.DataBase.resources
+D:\BaiduYunDownload\网络调试助手+Mysql——改\网络调试助手\obj\x86\Release\LeafSoft.Welcome.resources
+D:\BaiduYunDownload\网络调试助手+Mysql——改\网络调试助手\obj\x86\Release\LeafSoft.frmBytes.resources
+D:\BaiduYunDownload\网络调试助手+Mysql——改\网络调试助手\obj\x86\Release\LeafSoft.frmCheck.resources
+D:\BaiduYunDownload\网络调试助手+Mysql——改\网络调试助手\obj\x86\Release\LeafSoft.frmCMD.resources
+D:\BaiduYunDownload\网络调试助手+Mysql——改\网络调试助手\obj\x86\Release\LeafSoft.frmPoly.resources
+D:\BaiduYunDownload\网络调试助手+Mysql——改\网络调试助手\obj\x86\Release\LeafSoft.PartPanel.TCPClientPanel.resources
+D:\BaiduYunDownload\网络调试助手+Mysql——改\网络调试助手\obj\x86\Release\LeafSoft.PartPanel.UDPClientPanel.resources
+D:\BaiduYunDownload\网络调试助手+Mysql——改\网络调试助手\obj\x86\Release\LeafSoft.Units.NetTCPClient.resources
+D:\BaiduYunDownload\网络调试助手+Mysql——改\网络调试助手\obj\x86\Release\LeafSoft.Units.NetTCPServer.resources
+D:\BaiduYunDownload\网络调试助手+Mysql——改\网络调试助手\obj\x86\Release\LeafSoft.Units.NetUDPClient.resources
+D:\BaiduYunDownload\网络调试助手+Mysql——改\网络调试助手\obj\x86\Release\LeafSoft.Units.TabDataReceive.resources
+D:\BaiduYunDownload\网络调试助手+Mysql——改\网络调试助手\obj\x86\Release\LeafSoft.yyzq.resources
+D:\BaiduYunDownload\网络调试助手+Mysql——改\网络调试助手\obj\x86\Release\LeafSoft.PartPanel.ComPanel.resources
+D:\BaiduYunDownload\网络调试助手+Mysql——改\网络调试助手\obj\x86\Release\LeafSoft.PartPanel.TCPServerPanel.resources
+D:\BaiduYunDownload\网络调试助手+Mysql——改\网络调试助手\obj\x86\Release\LeafSoft.PartPanel.UDPServerPanel.resources
+D:\BaiduYunDownload\网络调试助手+Mysql——改\网络调试助手\obj\x86\Release\LeafSoft.Properties.Resources.resources
+D:\BaiduYunDownload\网络调试助手+Mysql——改\网络调试助手\obj\x86\Release\LeafSoft.Units.NetRs232.resources
+D:\BaiduYunDownload\网络调试助手+Mysql——改\网络调试助手\obj\x86\Release\LeafSoft.Units.DataCounter.resources
+D:\BaiduYunDownload\网络调试助手+Mysql——改\网络调试助手\obj\x86\Release\LeafSoft.Units.DataReceive.resources
+D:\BaiduYunDownload\网络调试助手+Mysql——改\网络调试助手\obj\x86\Release\LeafSoft.Units.DataSend.resources
+D:\BaiduYunDownload\网络调试助手+Mysql——改\网络调试助手\obj\x86\Release\LeafSoft.Units.NetUDPServer.resources
+D:\BaiduYunDownload\网络调试助手+Mysql——改\网络调试助手\obj\x86\Release\LeafSoft.csproj.GenerateResource.Cache
+E:\BaiduYunDownload\C#串口+网络调试助手\C#串口+网络调试助手\网络调试助手\obj\x86\Release\C#通讯调试工具(v3.0测试版).exe
+E:\BaiduYunDownload\C#串口+网络调试助手\C#串口+网络调试助手\网络调试助手\obj\x86\Release\C#通讯调试工具(v3.0测试版).pdb
+E:\BaiduYunDownload\C#串口+网络调试助手\C#串口+网络调试助手\网络调试助手\bin\Release\C#通讯调试工具(v3.0测试版).exe
+E:\BaiduYunDownload\C#串口+网络调试助手\C#串口+网络调试助手\网络调试助手\bin\Release\C#通讯调试工具(v3.0测试版).pdb
+E:\BaiduYunDownload\C#串口+网络调试助手\C#串口+网络调试助手\网络调试助手\obj\x86\Release\LeafSoft.AboutMe.resources
+E:\BaiduYunDownload\C#串口+网络调试助手\C#串口+网络调试助手\网络调试助手\obj\x86\Release\LeafSoft.DataBase.resources
+E:\BaiduYunDownload\C#串口+网络调试助手\C#串口+网络调试助手\网络调试助手\obj\x86\Release\LeafSoft.Welcome.resources
+E:\BaiduYunDownload\C#串口+网络调试助手\C#串口+网络调试助手\网络调试助手\obj\x86\Release\LeafSoft.frmBytes.resources
+E:\BaiduYunDownload\C#串口+网络调试助手\C#串口+网络调试助手\网络调试助手\obj\x86\Release\LeafSoft.frmCheck.resources
+E:\BaiduYunDownload\C#串口+网络调试助手\C#串口+网络调试助手\网络调试助手\obj\x86\Release\LeafSoft.frmCMD.resources
+E:\BaiduYunDownload\C#串口+网络调试助手\C#串口+网络调试助手\网络调试助手\obj\x86\Release\LeafSoft.frmPoly.resources
+E:\BaiduYunDownload\C#串口+网络调试助手\C#串口+网络调试助手\网络调试助手\obj\x86\Release\LeafSoft.PartPanel.TCPClientPanel.resources
+E:\BaiduYunDownload\C#串口+网络调试助手\C#串口+网络调试助手\网络调试助手\obj\x86\Release\LeafSoft.PartPanel.UDPClientPanel.resources
+E:\BaiduYunDownload\C#串口+网络调试助手\C#串口+网络调试助手\网络调试助手\obj\x86\Release\LeafSoft.Units.NetTCPClient.resources
+E:\BaiduYunDownload\C#串口+网络调试助手\C#串口+网络调试助手\网络调试助手\obj\x86\Release\LeafSoft.Units.NetTCPServer.resources
+E:\BaiduYunDownload\C#串口+网络调试助手\C#串口+网络调试助手\网络调试助手\obj\x86\Release\LeafSoft.Units.NetUDPClient.resources
+E:\BaiduYunDownload\C#串口+网络调试助手\C#串口+网络调试助手\网络调试助手\obj\x86\Release\LeafSoft.Units.TabDataReceive.resources
+E:\BaiduYunDownload\C#串口+网络调试助手\C#串口+网络调试助手\网络调试助手\obj\x86\Release\LeafSoft.yyzq.resources
+E:\BaiduYunDownload\C#串口+网络调试助手\C#串口+网络调试助手\网络调试助手\obj\x86\Release\LeafSoft.PartPanel.ComPanel.resources
+E:\BaiduYunDownload\C#串口+网络调试助手\C#串口+网络调试助手\网络调试助手\obj\x86\Release\LeafSoft.PartPanel.TCPServerPanel.resources
+E:\BaiduYunDownload\C#串口+网络调试助手\C#串口+网络调试助手\网络调试助手\obj\x86\Release\LeafSoft.PartPanel.UDPServerPanel.resources
+E:\BaiduYunDownload\C#串口+网络调试助手\C#串口+网络调试助手\网络调试助手\obj\x86\Release\LeafSoft.Properties.Resources.resources
+E:\BaiduYunDownload\C#串口+网络调试助手\C#串口+网络调试助手\网络调试助手\obj\x86\Release\LeafSoft.Units.NetRs232.resources
+E:\BaiduYunDownload\C#串口+网络调试助手\C#串口+网络调试助手\网络调试助手\obj\x86\Release\LeafSoft.Units.DataCounter.resources
+E:\BaiduYunDownload\C#串口+网络调试助手\C#串口+网络调试助手\网络调试助手\obj\x86\Release\LeafSoft.Units.DataReceive.resources
+E:\BaiduYunDownload\C#串口+网络调试助手\C#串口+网络调试助手\网络调试助手\obj\x86\Release\LeafSoft.Units.DataSend.resources
+E:\BaiduYunDownload\C#串口+网络调试助手\C#串口+网络调试助手\网络调试助手\obj\x86\Release\LeafSoft.Units.NetUDPServer.resources
+E:\BaiduYunDownload\C#串口+网络调试助手\C#串口+网络调试助手\网络调试助手\obj\x86\Release\LeafSoft.csproj.GenerateResource.Cache
