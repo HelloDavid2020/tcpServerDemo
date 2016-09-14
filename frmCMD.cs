@@ -111,36 +111,36 @@ namespace LeafSoft
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
-        private void MS_CRCPolyH_Click(object sender, EventArgs e)
-        {
-            Model.CMD cmd=txtContent.GetCMD();
-            if (cmd != null)
-            {
-                frmPoly fpoly = new frmPoly();
-                if (fpoly.ShowDialog() == DialogResult.OK)
-                {
-                    AppendToContent(Lib.BytesCheck.GetCRC16ByPoly(cmd.Bytes,fpoly.Poly,true));
-                }
-            }
-        }
+        //private void MS_CRCPolyH_Click(object sender, EventArgs e)
+        //{
+        //    Model.CMD cmd=txtContent.GetCMD();
+        //    if (cmd != null)
+        //    {
+        //        frmPoly fpoly = new frmPoly();
+        //        if (fpoly.ShowDialog() == DialogResult.OK)
+        //        {
+        //            AppendToContent(Lib.BytesCheck.GetCRC16ByPoly(cmd.Bytes,fpoly.Poly,true));
+        //        }
+        //    }
+        //}
 
         /// <summary>
         /// 多项式CRC16 低位在前
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
-        private void MS_CRCPolyL_Click(object sender, EventArgs e)
-        {
-             Model.CMD cmd=txtContent.GetCMD();
-             if (cmd != null)
-             {
-                 frmPoly fpoly = new frmPoly();
-                 if (fpoly.ShowDialog() == DialogResult.OK)
-                 {
-                     AppendToContent(Lib.BytesCheck.GetCRC16ByPoly(cmd.Bytes, fpoly.Poly, false));
-                 }
-             }
-        }
+        //private void MS_CRCPolyL_Click(object sender, EventArgs e)
+        //{
+        //     Model.CMD cmd=txtContent.GetCMD();
+        //     if (cmd != null)
+        //     {
+        //         frmPoly fpoly = new frmPoly();
+        //         if (fpoly.ShowDialog() == DialogResult.OK)
+        //         {
+        //             AppendToContent(Lib.BytesCheck.GetCRC16ByPoly(cmd.Bytes, fpoly.Poly, false));
+        //         }
+        ////     }
+        //}
 
         private void AppendToContent(byte[] check)
         {

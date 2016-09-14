@@ -41,16 +41,12 @@
             this.tabPage5 = new System.Windows.Forms.TabPage();
             this.udpClientPanel1 = new LeafSoft.PartPanel.UDPClientPanel();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.计算器ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.MS_Check = new System.Windows.Forms.ToolStripMenuItem();
-            this.MS_Bytes = new System.Windows.Forms.ToolStripMenuItem();
             this.关于ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.MS_NewRs232 = new System.Windows.Forms.ToolStripMenuItem();
             this.MS_NewTCPServer = new System.Windows.Forms.ToolStripMenuItem();
             this.MS_NewTCPClient = new System.Windows.Forms.ToolStripMenuItem();
             this.MS_NewUDPServer = new System.Windows.Forms.ToolStripMenuItem();
             this.MS_NewUDPClient = new System.Windows.Forms.ToolStripMenuItem();
-            this.MS_AboutMe = new System.Windows.Forms.ToolStripMenuItem();
             this.tabPage4.SuspendLayout();
             this.tabPage2.SuspendLayout();
             this.tabPage1.SuspendLayout();
@@ -172,40 +168,12 @@
             // 
             this.menuStrip1.BackColor = System.Drawing.Color.Transparent;
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.计算器ToolStripMenuItem,
-            this.关于ToolStripMenuItem,
-            this.MS_AboutMe});
+            this.关于ToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(718, 25);
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
-            // 
-            // 计算器ToolStripMenuItem
-            // 
-            this.计算器ToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.MS_Check,
-            this.MS_Bytes});
-            this.计算器ToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("计算器ToolStripMenuItem.Image")));
-            this.计算器ToolStripMenuItem.Name = "计算器ToolStripMenuItem";
-            this.计算器ToolStripMenuItem.Size = new System.Drawing.Size(72, 21);
-            this.计算器ToolStripMenuItem.Text = "计算器";
-            // 
-            // MS_Check
-            // 
-            this.MS_Check.Image = ((System.Drawing.Image)(resources.GetObject("MS_Check.Image")));
-            this.MS_Check.Name = "MS_Check";
-            this.MS_Check.Size = new System.Drawing.Size(148, 22);
-            this.MS_Check.Text = "校验码计算器";
-            this.MS_Check.Click += new System.EventHandler(this.MS_Check_Click);
-            // 
-            // MS_Bytes
-            // 
-            this.MS_Bytes.Image = ((System.Drawing.Image)(resources.GetObject("MS_Bytes.Image")));
-            this.MS_Bytes.Name = "MS_Bytes";
-            this.MS_Bytes.Size = new System.Drawing.Size(148, 22);
-            this.MS_Bytes.Text = "数值计算器";
-            this.MS_Bytes.Click += new System.EventHandler(this.MS_Bytes_Click);
             // 
             // 关于ToolStripMenuItem
             // 
@@ -224,7 +192,7 @@
             // 
             this.MS_NewRs232.Image = ((System.Drawing.Image)(resources.GetObject("MS_NewRs232.Image")));
             this.MS_NewRs232.Name = "MS_NewRs232";
-            this.MS_NewRs232.Size = new System.Drawing.Size(142, 22);
+            this.MS_NewRs232.Size = new System.Drawing.Size(152, 22);
             this.MS_NewRs232.Text = "串口";
             this.MS_NewRs232.Click += new System.EventHandler(this.MS_NewRs232_Click);
             // 
@@ -232,7 +200,7 @@
             // 
             this.MS_NewTCPServer.Image = ((System.Drawing.Image)(resources.GetObject("MS_NewTCPServer.Image")));
             this.MS_NewTCPServer.Name = "MS_NewTCPServer";
-            this.MS_NewTCPServer.Size = new System.Drawing.Size(142, 22);
+            this.MS_NewTCPServer.Size = new System.Drawing.Size(152, 22);
             this.MS_NewTCPServer.Text = "TCP Server";
             this.MS_NewTCPServer.Click += new System.EventHandler(this.MS_NewTCPServer_Click);
             // 
@@ -240,7 +208,7 @@
             // 
             this.MS_NewTCPClient.Image = ((System.Drawing.Image)(resources.GetObject("MS_NewTCPClient.Image")));
             this.MS_NewTCPClient.Name = "MS_NewTCPClient";
-            this.MS_NewTCPClient.Size = new System.Drawing.Size(142, 22);
+            this.MS_NewTCPClient.Size = new System.Drawing.Size(152, 22);
             this.MS_NewTCPClient.Text = "TCP Client";
             this.MS_NewTCPClient.Click += new System.EventHandler(this.MS_NewTCPClient_Click);
             // 
@@ -248,7 +216,7 @@
             // 
             this.MS_NewUDPServer.Image = ((System.Drawing.Image)(resources.GetObject("MS_NewUDPServer.Image")));
             this.MS_NewUDPServer.Name = "MS_NewUDPServer";
-            this.MS_NewUDPServer.Size = new System.Drawing.Size(142, 22);
+            this.MS_NewUDPServer.Size = new System.Drawing.Size(152, 22);
             this.MS_NewUDPServer.Text = "UDP Server";
             this.MS_NewUDPServer.Click += new System.EventHandler(this.MS_NewUDPServer_Click);
             // 
@@ -256,17 +224,9 @@
             // 
             this.MS_NewUDPClient.Image = ((System.Drawing.Image)(resources.GetObject("MS_NewUDPClient.Image")));
             this.MS_NewUDPClient.Name = "MS_NewUDPClient";
-            this.MS_NewUDPClient.Size = new System.Drawing.Size(142, 22);
+            this.MS_NewUDPClient.Size = new System.Drawing.Size(152, 22);
             this.MS_NewUDPClient.Text = "UDP Client";
             this.MS_NewUDPClient.Click += new System.EventHandler(this.MS_NewUDPClient_Click);
-            // 
-            // MS_AboutMe
-            // 
-            this.MS_AboutMe.Image = ((System.Drawing.Image)(resources.GetObject("MS_AboutMe.Image")));
-            this.MS_AboutMe.Name = "MS_AboutMe";
-            this.MS_AboutMe.Size = new System.Drawing.Size(60, 21);
-            this.MS_AboutMe.Text = "关于";
-            this.MS_AboutMe.Click += new System.EventHandler(this.MS_AboutMe_Click);
             // 
             // yyzq
             // 
@@ -308,16 +268,12 @@
         private System.Windows.Forms.TabPage tabPage5;
         private PartPanel.UDPClientPanel udpClientPanel1;
         private System.Windows.Forms.MenuStrip menuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem 计算器ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem MS_Check;
         private System.Windows.Forms.ToolStripMenuItem 关于ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem MS_NewTCPServer;
         private System.Windows.Forms.ToolStripMenuItem MS_NewTCPClient;
         private System.Windows.Forms.ToolStripMenuItem MS_NewUDPServer;
         private System.Windows.Forms.ToolStripMenuItem MS_NewUDPClient;
-        private System.Windows.Forms.ToolStripMenuItem MS_AboutMe;
         private System.Windows.Forms.ToolStripMenuItem MS_NewRs232;
-        private System.Windows.Forms.ToolStripMenuItem MS_Bytes;
 
 
 

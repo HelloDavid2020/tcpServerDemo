@@ -93,52 +93,52 @@
             this.CM_Type.Text = "切换到ASCII";
             this.CM_Type.Click += new System.EventHandler(this.CM_Type_Click);
             // 
-            // CM_Check
-            // 
-            this.CM_Check.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.MS_CheckSum,
-            this.MS_CRC16,
-            this.MS_CRCPoly});
-            this.CM_Check.Name = "CM_Check";
-            this.CM_Check.Size = new System.Drawing.Size(143, 22);
-            this.CM_Check.Text = "计算校验码";
-            // 
-            // MS_CheckSum
-            // 
-            this.MS_CheckSum.Name = "MS_CheckSum";
-            this.MS_CheckSum.Size = new System.Drawing.Size(154, 22);
-            this.MS_CheckSum.Text = "校验和";
-            this.MS_CheckSum.Click += new System.EventHandler(this.MS_CheckSum_Click);
-            // 
-            // MS_CRC16
-            // 
-            this.MS_CRC16.Name = "MS_CRC16";
-            this.MS_CRC16.Size = new System.Drawing.Size(154, 22);
-            this.MS_CRC16.Text = "Modbus-RTU";
-            this.MS_CRC16.Click += new System.EventHandler(this.MS_CRC16_Click);
-            // 
-            // MS_CRCPoly
-            // 
-            this.MS_CRCPoly.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.MS_CRCPolyH,
-            this.MS_CRCPolyL});
-            this.MS_CRCPoly.Name = "MS_CRCPoly";
-            this.MS_CRCPoly.Size = new System.Drawing.Size(154, 22);
-            this.MS_CRCPoly.Text = "CRC16多项式";
-            // 
-            // MS_CRCPolyH
-            // 
-            this.MS_CRCPolyH.Name = "MS_CRCPolyH";
-            this.MS_CRCPolyH.Size = new System.Drawing.Size(124, 22);
-            this.MS_CRCPolyH.Text = "高位在前";
-            this.MS_CRCPolyH.Click += new System.EventHandler(this.MS_CRCPolyH_Click);
-            // 
-            // MS_CRCPolyL
-            // 
-            this.MS_CRCPolyL.Name = "MS_CRCPolyL";
-            this.MS_CRCPolyL.Size = new System.Drawing.Size(124, 22);
-            this.MS_CRCPolyL.Text = "低位在前";
-            this.MS_CRCPolyL.Click += new System.EventHandler(this.MS_CRCPolyL_Click);
+            //// CM_Check
+            //// 
+            //this.CM_Check.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            //this.MS_CheckSum,
+            //this.MS_CRC16,
+            //this.MS_CRCPoly});
+            //this.CM_Check.Name = "CM_Check";
+            //this.CM_Check.Size = new System.Drawing.Size(143, 22);
+            //this.CM_Check.Text = "计算校验码";
+            //// 
+            //// MS_CheckSum
+            //// 
+            //this.MS_CheckSum.Name = "MS_CheckSum";
+            //this.MS_CheckSum.Size = new System.Drawing.Size(154, 22);
+            //this.MS_CheckSum.Text = "校验和";
+            //this.MS_CheckSum.Click += new System.EventHandler(this.MS_CheckSum_Click);
+            //// 
+            //// MS_CRC16
+            //// 
+            //this.MS_CRC16.Name = "MS_CRC16";
+            //this.MS_CRC16.Size = new System.Drawing.Size(154, 22);
+            //this.MS_CRC16.Text = "Modbus-RTU";
+            //this.MS_CRC16.Click += new System.EventHandler(this.MS_CRC16_Click);
+            //// 
+            //// MS_CRCPoly
+            //// 
+            //this.MS_CRCPoly.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            //this.MS_CRCPolyH,
+            //this.MS_CRCPolyL});
+            //this.MS_CRCPoly.Name = "MS_CRCPoly";
+            //this.MS_CRCPoly.Size = new System.Drawing.Size(154, 22);
+            //this.MS_CRCPoly.Text = "CRC16多项式";
+            //// 
+            //// MS_CRCPolyH
+            //// 
+            //this.MS_CRCPolyH.Name = "MS_CRCPolyH";
+            //this.MS_CRCPolyH.Size = new System.Drawing.Size(124, 22);
+            //this.MS_CRCPolyH.Text = "高位在前";
+            //this.MS_CRCPolyH.Click += new System.EventHandler(this.MS_CRCPolyH_Click);
+            //// 
+            //// MS_CRCPolyL
+            //// 
+            //this.MS_CRCPolyL.Name = "MS_CRCPolyL";
+            //this.MS_CRCPolyL.Size = new System.Drawing.Size(124, 22);
+            //this.MS_CRCPolyL.Text = "低位在前";
+            //this.MS_CRCPolyL.Click += new System.EventHandler(this.MS_CRCPolyL_Click);
             // 
             // CM_Clear
             // 

@@ -22,14 +22,14 @@ namespace LeafSoft
 {
     public partial class yyzq : Form
     {
-        frmCheck fc = new frmCheck();
-        frmBytes fb = new frmBytes();
+        // frmCheck fc = new frmCheck();
+        // frmBytes fb = new frmBytes();
 
         public yyzq()
         {
             InitializeComponent();
-            fc.TopMost = true;
-            fb.TopMost = true;
+            //fc.TopMost = true;
+            //fb.TopMost = true;
             this.Text = Lib.AppInfor.AssemblyTitle + "[v" + Lib.AppInfor.AssemblyVersion + "][" + Lib.AppInfor.AssemblyCopyright + "]";
         }
 
@@ -88,25 +88,25 @@ namespace LeafSoft
             CreateNewTest(tp, "COM[" + DateTime.Now.ToString("HHmmss") + "]", Properties.Resources.com);
         }
 
-        private void MS_Check_Click(object sender, EventArgs e)
-        {
-            if (fc.IsDisposed == true)
-            {
-                fc = new frmCheck();
-                fc.TopMost = true;
-            }
-            fc.Show();
-        }
+        //private void MS_Check_Click(object sender, EventArgs e)
+        //{
+        //    if (fc.IsDisposed == true)
+        //    {
+        //        fc = new frmCheck();
+        //        fc.TopMost = true;
+        //    }
+        //    fc.Show();
+        //}
 
-        private void MS_Bytes_Click(object sender, EventArgs e)
-        {
-            if (fb.IsDisposed==true)
-            {
-                fb = new frmBytes();
-                fb.TopMost = true;
-            }
-            fb.Show();
-        }
+        //private void MS_Bytes_Click(object sender, EventArgs e)
+        //{
+            //if (fb.IsDisposed==true)
+            //{
+            //    fb = new frmBytes();
+            //    fb.TopMost = true;
+            //}
+            //fb.Show();
+        //}
 
         //private void lklQQ_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         //{
@@ -145,10 +145,10 @@ namespace LeafSoft
             }
         }
 
-        private void MS_AboutMe_Click(object sender, EventArgs e)
-        {
-            new AboutMe().ShowDialog();
-        }
+        //private void MS_AboutMe_Click(object sender, EventArgs e)
+        //{
+        //    new AboutMe().ShowDialog();
+        //}
 
         //private void lklBlog_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         //{
@@ -175,6 +175,11 @@ namespace LeafSoft
             //Welcome f = new Welcome();
             //f.ShowDialog();
         }
+
+        //private void 计算器ToolStripMenuItem_Click(object sender, EventArgs e)
+        //{
+
+        //}
 
         //private void 数据库ToolStripMenuItem_Click(object sender, EventArgs e)
         //{
