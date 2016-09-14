@@ -83,20 +83,20 @@ namespace LeafSoft.Units
             }));
 
             //数据库处理
-            String num = content.Substring(1, 3);//车位号
-            String sta = content.Substring(4, 3);//车位状态
-            String d = content.Substring(7, 1);//车位电量
-            String z = content.Substring(8, 1);//车位状态
+            //String num = content.Substring(1, 3);//车位号
+            //String sta = content.Substring(4, 3);//车位状态
+            //String d = content.Substring(7, 1);//车位电量
+            //String z = content.Substring(8, 1);//车位状态
 
-            Class1.conn = new SqlConnection("server=.;database=" + Class1.DBName + ";uid=" + Class1.UserName + ";pwd=" + Class1.Pswd + "");
-            Class1.conn.Open();
-            SqlCommand cmd = new SqlCommand();//
-            cmd.Connection = Class1.conn;
-            cmd.CommandType = CommandType.Text;
-            cmd.CommandText = "update " + Class1.TableName + " set 命令数据=" + sta + " where 水表号=" + num; cmd.ExecuteNonQuery();//更新车位状态
-            cmd.CommandText = "update " + Class1.TableName + " set 命令数据标志=" + d + " where 水表号=" + num; cmd.ExecuteNonQuery();//更新车位电量
-            cmd.CommandText = "update " + Class1.TableName + " set 状态=" + z + " where 水表号=" + num; cmd.ExecuteNonQuery();//更新车位电量
-            Class1.conn.Dispose();   
+            //Class1.conn = new SqlConnection("server=.;database=" + Class1.DBName + ";uid=" + Class1.UserName + ";pwd=" + Class1.Pswd + "");
+            //Class1.conn.Open();
+            //SqlCommand cmd = new SqlCommand();//
+            //cmd.Connection = Class1.conn;
+            //cmd.CommandType = CommandType.Text;
+            //cmd.CommandText = "update " + Class1.TableName + " set 命令数据=" + sta + " where 水表号=" + num; cmd.ExecuteNonQuery();//更新车位状态
+            //cmd.CommandText = "update " + Class1.TableName + " set 命令数据标志=" + d + " where 水表号=" + num; cmd.ExecuteNonQuery();//更新车位电量
+            //cmd.CommandText = "update " + Class1.TableName + " set 状态=" + z + " where 水表号=" + num; cmd.ExecuteNonQuery();//更新车位电量
+            //Class1.conn.Dispose();   
         }
         #endregion
 
